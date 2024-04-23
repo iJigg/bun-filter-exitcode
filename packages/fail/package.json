@@ -1,0 +1,6 @@
+{
+  "name": "fail",
+  "scripts": {
+    "test": "bun run index.ts"
+  }
+}

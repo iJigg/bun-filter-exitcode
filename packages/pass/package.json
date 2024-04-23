@@ -1,0 +1,6 @@
+{
+  "name": "pass",
+  "scripts": {
+    "test": "bun run index.ts"
+  }
+}
